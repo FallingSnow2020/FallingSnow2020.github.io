@@ -1,13 +1,3 @@
-docs-zh:
-  - title:      导航示例
-    children:
-      - title: Welcome-1
-        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
-      - title: Welcome-2
-        url: https://FallingSnow2020.github.io/2018/06/01/header-image.html
-      - title:  Welcome-3
-        url:    https://FallingSnow2020.github.io/2018/07/01/welcome.html
-
 header:
   - titles:
       # @start locale config
@@ -58,3 +48,13 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
+docs-zh:
+  - title:      List
+    children:
+      - title: Welcome-1
+        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
+      - title: Welcome-2
+        url: https://FallingSnow2020.github.io/2018/06/01/header-image.html
+      - title:  Welcome-3
+        url:    https://FallingSnow2020.github.io/2018/07/01/welcome.html
