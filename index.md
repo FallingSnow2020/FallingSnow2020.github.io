@@ -4,7 +4,9 @@ tags: TeXt
 article_header:
   type: cover
   image:
-  src:/screenshot.jpg
+  src: /screenshot.jpg
 sidebar:
   nav: docs-zh
 ---
+
+Hello World!
