@@ -4,7 +4,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-  src: /img/icon01a.jpg
+  src: /icon01a.jpg
 sidebar:
   nav: toc2
 ---
