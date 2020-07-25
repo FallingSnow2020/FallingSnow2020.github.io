@@ -74,7 +74,7 @@ header:
     url: /about.html
 
 
-docs-zh:
+toc2:
   - title: Group 1
     subfolderitems:
       - page: Thing 1
