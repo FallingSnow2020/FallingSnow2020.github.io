@@ -6,8 +6,7 @@ article_header:
   image:
   src: /icon01a.jpg
 sidebar:
-  nav: toc2
-  <!-- nav: docs-zh -->
+  nav: docs-en
 ---
 
 Welcome! Hello!
