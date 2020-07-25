@@ -49,16 +49,20 @@ header:
       # @end locale config
     url: /about.html
 
-articles:
-  - title:      Articles
+lists:
+  - title:      Articles-A
     children:
       - title: Welcome-1
-        children:
-          - title: Welcome-2a
-            url: https://FallingSnow2020.github.io/2018/06/01/header-image.html
-          - title: Welcome-2b
-            url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
+        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
+      - title: Welcome-2
+        url: https://FallingSnow2020.github.io/2018/06/01/header-image.html
+      - title:  Welcome-3
+        url:    https://FallingSnow2020.github.io/2018/07/01/welcome.html
 
+  - title:      Articles-B
+    children:
+      - title: Welcome-1
+        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
       - title: Welcome-2
         url: https://FallingSnow2020.github.io/2018/06/01/header-image.html
       - title:  Welcome-3
