@@ -6,7 +6,7 @@ article_header:
   image:
   src: /img/icon01a.jpg
 sidebar:
-  nav: articles
+  nav: toc2
 ---
 
 Welcome! Hello!
