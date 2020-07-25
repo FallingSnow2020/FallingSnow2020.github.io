@@ -75,8 +75,22 @@ header:
 
 
 docs-zh:
-  - title: Articles-A
-    children:
-      - title: Welcome-1
-        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
+  - title: Group 1
+    subfolderitems:
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+        subsubfolderitems:
+          - page: Subthing 1
+            url: /subthing1.html
+          - page: Subthing 2
+            url: /subthing2.html
+      - page: Thing 3
+        url: /thing3.html
+
+  # - title: Articles-A
+  #   children:
+  #     - title: Welcome-1
+  #       url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
 
