@@ -88,7 +88,14 @@ toc2:
             url: /subthing2.html
       - page: Thing 3
         url: /thing3.html
-
+  - title: Group 2-B
+    subfolderitems:
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html
   # - title: Articles-A
   #   children:
   #     - title: Welcome-1
