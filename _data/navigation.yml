@@ -73,10 +73,3 @@ header:
       # @end locale config
     url: /about.html
 
-
-docs-zh:
-  - title: Articles-A
-    children:
-      - title: Welcome-1
-        url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
-
