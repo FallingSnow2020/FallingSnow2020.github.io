@@ -1,6 +1,10 @@
 ---
-layout: post
-title: Example content - 1a
+title: Post with Header Image
+tags: TeXt
+article_header:
+  type: cover
+  image:
+    src:
 sidebar:
   nav: docs-zh
 ---
