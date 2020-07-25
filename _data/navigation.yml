@@ -75,27 +75,19 @@ header:
 
 
 docs-en:
-  - title: Group 1-A
-    subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
-      - page: Thing 2
-        url: /thing2.html
-        subsubfolderitems:
-          - page: Subthing 1
-            url: /subthing1.html
-          - page: Subthing 2
-            url: /subthing2.html
-      - page: Thing 3
-        url: /thing3.html
-  - title: Group 2-B
-    subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
-      - page: Piece 2
-        url: /piece2.html
-      - page: Piece 3
-        url: /piece3.html
+   - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+      ...
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
   # - title: Articles-A
   #   children:
   #     - title: Welcome-1
