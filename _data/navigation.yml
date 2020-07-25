@@ -73,10 +73,10 @@ header:
       # @end locale config
     url: /about.html
 
+
 toc2:
   - title: Articles-A
-    subfolderitems:
-      - page: Welcome-1
+    children:
+      - title: Welcome-1
         url: https://FallingSnow2020.github.io/2018/07/01/welcome.html
 
- 
