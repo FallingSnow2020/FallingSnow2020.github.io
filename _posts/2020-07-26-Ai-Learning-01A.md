@@ -31,9 +31,9 @@ title: Ai Learning - L01A - Knowledge Graph
 
 ### 需要知道 “需要什么” - 知识图谱 Knowledge Graph
 
-<img src="https://Fallingsnow2020.github.io/img/AiLearning-KG-01a.png" width='600x'>
+<img src="https://Fallingsnow2020.github.io/img/AiLearning-KG-01a.png" width='600x' align='center'>
 
-<img src="https://FallingSnow2020.github.io/img/icon01a.jpg" width="100" height="75">
+<img src="https://FallingSnow2020.github.io/img/icon01a.jpg" width="100x" height="75" align='center'>
 
 
 
