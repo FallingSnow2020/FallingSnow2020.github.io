@@ -9,7 +9,7 @@ title: Ai Learning - L01A - Knowledge Graph
 
 ### 什么是好的准备？
 
-在大多数工作中，都需要解决的问题是：1）目的（要达到什么）2） 解决方法（怎么做才能达到目的）3）多久能够做好？4）评估/检验（计划是否有效/是否达到目的/如何改进？）5）NOTE：重中之重，学习是一个 积累和重复 的过程。把学习中的 可以重复使用的东西 总结好 准备好。
+在大多数工作中，都需要解决的问题是：1）目的（要达到什么）2） 解决方法（怎么做才能达到目的）3）多久能够做好？4）评估/检验（计划是否有效/是否达到目的/如何改进？
 
 这些应该都是可以做到的，是一个循环的过程。但必须要认真的做，因为魔鬼藏在细节之中 (The devil is in details)。无需急于求成，但不能虚度光阴，浪费了时间。
 
@@ -23,9 +23,15 @@ title: Ai Learning - L01A - Knowledge Graph
 
 
 
-### 你需要知道什么 - 知识图谱 Knowledge Graph
+### 重中之重 -- 知识积累/储备 （re-usable knowledge)
 
-<img src="https://fallingsnow2020.github.io/img/AiLearning-KG-01a.png">
+在学习过程中，把一些可以重复使用的知识 积累/储备好。因为，很多项目中，经典的知识（包括code, 工具，方法）会被多次用到。所以，开发新项目是可以更有效率。
+
+
+
+### 需要知道 “需要什么” - 知识图谱 Knowledge Graph
+
+<img src="https://Fallingsnow2020.github.io/img/AiLearning-KG-01a.png" width='600x'>
 
 <img src="https://FallingSnow2020.github.io/img/icon01a.jpg" width="100" height="75">
 
