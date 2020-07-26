@@ -25,11 +25,9 @@ title: Ai Learning - L01A - Knowledge Graph
 
 ### 你需要知道什么 - 知识图谱 Knowledge Graph
 
-<img src="https://fallingsnow2020.github.io/_assets/img/AiLearning-KG-01a.png">
+<img src="https://fallingsnow2020.github.io/img/AiLearning-KG-01a.png">
 
 <img src="https://FallingSnow2020.github.io/img/icon01a.jpg" width="100" height="75">
-
-
 
 
 
