@@ -39,5 +39,5 @@ Lifelong study 不是一个新的时代的要求。而更是一种态度，可�
 
 既然终身学习很有益处，开心 快乐 至少 应该是 主动的学习更为有效，更为愉快。
 
-<img src="https://FallingSnow2020.github.io/_assets/img/icon01a.jpg" width="100" height="75" align='center'>
+<img src="https://FallingSnow2020.github.io/img/icon01a.jpg" width="100" height="75" align='center'>
 
